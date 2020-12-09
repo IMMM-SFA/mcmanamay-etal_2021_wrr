@@ -17,7 +17,7 @@ R.A. McManamay<sup> 1\*</sup>, B. K.C.<sup> 2</sup>, M.R. Allen-Dumas<sup> 2</su
 McManamay, R.A., K.C., B., Allen-Dumas, M.R., Kao, S-C., Brelsford, C.M., Ruddell, B.L., Sanyal, J., Stewart, R.N., Bhaduri, B.L. (2020). Reanalysis of water use withdrawal for irrigation, electric power, and public supply sectors in the conterminous United States, 1950 to 2016. *Water Resources Research*
 
 ## Code reference
-Code used to conduct the analysis in this paper is archived in this repository.
+Code used to conduct the analysis in this paper is archived in this repository.  Each R file can be executed after changing the paths in the scripts to represent the paths to where the following data reference has been downloaded.
 
 ## Data reference
 <fill in>
