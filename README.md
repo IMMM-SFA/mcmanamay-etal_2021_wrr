@@ -4,7 +4,7 @@
 
 __Reanalysis of Water Use Withdrawal for Irrigation, Electric Power, and Public Supply Sectors in the Conterminous United States, 1950 to 2016__
 
-Ryan A. McManamay<sup> 1\*</sup>, Binita KC<sup> 2</sup>, Melissa R. Allen-Dumas<sup> 2</sup>, Shih-Chief Kao<sup> 2</sup>, Christa M. Brelsford<sup> 2</sup>, Benjamin L. Ruddell<sup> 2</sup>, Jibonananda Sanyal<sup> 2</sup>, Robert N. Stewart<sup> 2</sup>, and Budhendra L. Bhaduri<sup> 2</sup>
+Ryan A. McManamay<sup> 1\*</sup>, Binita KC<sup> 2</sup>, Melissa R. Allen-Dumas<sup> 2</sup>, Shih-Chieh Kao<sup> 2</sup>, Christa M. Brelsford<sup> 2</sup>, Benjamin L. Ruddell<sup> 2</sup>, Jibonananda Sanyal<sup> 2</sup>, Robert N. Stewart<sup> 2</sup>, and Budhendra L. Bhaduri<sup> 2</sup>
 
 <sup>1 </sup> Baylor University, Waco, TX
 <sup>2 </sup> Oak Ridge National Laboratory, Oak Ridge, TN
