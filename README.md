@@ -1,4 +1,4 @@
-[Zenodo Badge]
+[![DOI](https://zenodo.org/badge/320044664.svg)](https://zenodo.org/badge/latestdoi/320044664)
 
 ## mcmanamay-etal_2021_wrr
 
