@@ -17,7 +17,7 @@ Accurately measuring water use by the economy is essential for developing reliab
 McManamay, R.A., KC, B., Allen-Dumas, M.R., Kao, S.-C., Brelsford, C.M., Ruddell, B.L., Sanyal, J., Stewart, R.N., Bhaduri, B.L. (2021). Reanalysis of water use withdrawal for irrigation, electric power, and public supply sectors in the conterminous United States, 1950 to 2016. *Water Resources Research*, 57(2), e2020WR027751, https://doi.org/10.1029/2020WR027751.
 
 ## Code reference
-McManamay, R.A., KC, B., Allen-Dumas, M.R., Kao, S.-C., Brelsford, C.M., Ruddell, B.L., Sanyal, J., Stewart, R.N., Bhaduri, B.L. (2021). Supporting code for McManamay et al. 2021 [Code].
+McManamay, R.A., KC, B., Allen-Dumas, M.R., Kao, S.-C., Brelsford, C.M., Ruddell, B.L., Sanyal, J., Stewart, R.N., Bhaduri, B.L. (2021). Supporting code for McManamay et al. 2021 [Code]. Zenodo. https://doi.org/10.5281/zenodo.4731060.
 
 Code used to conduct the analysis in this paper is archived in this repository. Each R file can be executed after changing the paths in the scripts to represent the paths to where the following data reference has been downloaded.
 
